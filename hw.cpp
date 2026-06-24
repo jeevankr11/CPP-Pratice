@@ -8,7 +8,7 @@ int main(){
     cin>> n;
 
     for(a=1; n>=a; a++) {
-        if (a%3 == 0) {
+        if (a % 3 == 0) {
       sum += a;
     }
 
